@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🧠 Aspiring Cybersecurity Professional | 🔐 Future Security Analyst & Penetration Tester (in training)
 
-<!--
-**BozhidarNeshkov/BozhidarNeshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Focused on building foundational skills in cybersecurity and offensive security.  
+Currently learning through platforms like TryHackMe and SofUni.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Learning Journey
+
+🧪 Currently working on:
+- TryHackMe labs
+- Reconnaissance (OSINT, scanning, enumeration basics)
+- Web application security fundamentals
+
+🎯 Goals:
+- Land an internship or junior role as a Security Analyst (SOC)
+- Transition into Penetration Testing
+
+---
+
+## 🛠️ Skills & Tools
+
+- Linux fundamentals
+- Windows fundamentals
+- Networking fundamentals
+- Nmap
+- Burp Suite (beginner)
+- Metasploit (beginner)
+
+---
+
+## 📂 Projects
+
+📌 What I'm working towards:
+- Sharing notes and writeups from my learning journey
+- Documenting progress in cybersecurity
+
+---
+
+## 🌐 Stay Connected
+
+- LinkedIn - www.linkedin.com/in/bozhidar-neshkov-841231269
+
+---
+
+## 📈 Mindset
+
+Focused on consistency, hands-on learning, and improving step by step.
